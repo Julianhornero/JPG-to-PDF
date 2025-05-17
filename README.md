@@ -1,5 +1,5 @@
 
-# JPG-to-PDF
+# JPGtoPDF
 
 Simple JPG to PDF Conversion Using Pillow
 
